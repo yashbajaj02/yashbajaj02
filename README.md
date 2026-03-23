@@ -66,7 +66,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github.com/yashbajaj02/yashbajaj02/blob/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/yashbajaj02/yashbajaj02/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
