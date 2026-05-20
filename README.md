@@ -31,7 +31,7 @@
 
 ### 📚 Book Search App
 
-🔗 https://yashbajaj02.github.io/Book-Search-App/
+🔗 [https://yashbajaj02.github.io/Book-Search-App/](https://yashbajaj02.github.io/Modern-Book-Search/)
 
 ### 🎮 Rock Paper Scissor
 
