@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/yashbajaj02">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=650&lines=Yash+Bajaj;CSE+(AI)+Student;Full-Stack+Developer;AI%2FML+Enthusiast;Building+things+that+matter;01000011+01001111+01000100+01000101" alt="Typing banner">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=650&lines=Yash+Bajaj;CSE+(AI)+Student;Full-Stack+Developer;AI%2FML+Enthusiast;Building+things+that+matter" alt="Typing banner">
 </a>
 
 <br><br>
