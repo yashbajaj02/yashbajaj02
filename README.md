@@ -52,6 +52,24 @@ I like turning ideas into real projects and learning by building.
 
 ---
 
+## ~/ github activity
+
+<div align="center">
+
+<img src="./assets/metrics.isocalendar.svg" alt="GitHub Contribution Calendar" width="900">
+
+<br><br>
+
+<img src="./assets/metrics.languages.svg" alt="Most Used Languages" width="700">
+
+<br><br>
+
+<img src="./assets/metrics.achievements.svg" alt="GitHub Achievements" width="700">
+
+</div>
+
+---
+
 ## ~/ selected work
 
 | Project | Description |
