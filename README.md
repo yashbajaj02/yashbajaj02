@@ -62,6 +62,10 @@ I like turning ideas into real projects and learning by building.
 
 <img src="./assets/languages-custom.svg" alt="Most Used Languages" width="720">
 
+<div style="height:20px;"></div>
+
+<img src="./assets/github-snake-dark.svg" alt="GitHub Contribution Snake" width="900">
+
 </div>
 
 ---
