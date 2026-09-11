@@ -68,11 +68,43 @@ I like turning ideas into real projects and learning by building.
 
 ## ~/ selected work
 
-| Project | Description |
-|---|---|
-| **Connect** | Developer portfolio and developer hub |
-| **Splity** | Expense splitting and settlement application |
-| **VoxGuard** | AI-powered voice fraud detection system |
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Connect
+
+Developer portfolio and developer hub.
+
+`React` `TypeScript` `Tailwind` `Supabase`
+
+[View Project →](https://github.com/yashbajaj02/connect-yash)
+
+</td>
+<td width="33%" valign="top">
+
+### Splity
+
+Expense splitting and settlement application.
+
+`React` `TypeScript` `Supabase` `PostgreSQL`
+
+[View Project →](https://github.com/yashbajaj02/Splity)
+
+</td>
+<td width="33%" valign="top">
+
+### VoxGuard
+
+AI-powered voice fraud detection system.
+
+`Python` `AI/ML` `Voice Analysis`
+
+[Coming soon →]
+
+</td>
+</tr>
+</table>
 
 ---
 
