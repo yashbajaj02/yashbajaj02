@@ -1,10 +1,28 @@
 <div align="center">
 
-# Yash Bajaj
+<a href="https://github.com/yashbajaj02">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=650&lines=Yash+Bajaj;CSE+(AI)+Student;Full-Stack+Developer;AI%2FML+Enthusiast;Building+things+that+matter;01000011+01001111+01000100+01000101" alt="Typing banner">
+</a>
 
-### CSE (AI) Student • Full-Stack Developer • AI/ML
+<br><br>
 
-Building things with code, AI and the web.
+<a href="https://github.com/yashbajaj02">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<a href="https://www.linkedin.com/in/yashbajaj02/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://yashbajaj02.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=yashbajaj02&style=flat&color=39d353&label=profile+views" alt="Profile views">
+
+
 
 <a href="https://github.com/yashbajaj02"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/yashbajaj02/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
