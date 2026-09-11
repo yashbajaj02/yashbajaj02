@@ -58,7 +58,7 @@ I like turning ideas into real projects and learning by building.
 
 <img src="./assets/metrics.isocalendar.svg" alt="GitHub Contribution Calendar" width="750">
 
-<br><br>
+<br>
 
 <img src="./assets/languages-custom.svg" alt="Most Used Languages" width="720">
 
