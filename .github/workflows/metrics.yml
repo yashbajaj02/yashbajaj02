@@ -13,12 +13,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
       - name: Generate contribution calendar
         uses: lowlighter/metrics@latest
         with:
           filename: assets/metrics.isocalendar.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          user: yashbajaj02
           base: ""
+          output_action: none
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
@@ -27,7 +34,9 @@ jobs:
         with:
           filename: assets/metrics.languages.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          user: yashbajaj02
           base: ""
+          output_action: none
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_threshold: 2
@@ -39,6 +48,17 @@ jobs:
         with:
           filename: assets/metrics.achievements.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          user: yashbajaj02
           base: ""
+          output_action: none
           plugin_achievements: yes
           plugin_achievements_display: compact
+
+      - name: Commit generated metrics
+        run: |
+          sudo cp -r /metrics_renders/. ./
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/
+          git diff --cached --quiet || git commit -m "chore: update GitHub metrics [Skip GitHub Action]"
+          git push
