@@ -60,11 +60,7 @@ I like turning ideas into real projects and learning by building.
 
 <br><br>
 
-<img src="./assets/metrics.languages.svg" alt="Most Used Languages" width="700">
-
-<br><br>
-
-<img src="./assets/metrics.achievements.svg" alt="GitHub Achievements" width="700">
+<img src="./assets/metrics.languages.svg" alt="Most Used Languages" width="650">
 
 </div>
 
