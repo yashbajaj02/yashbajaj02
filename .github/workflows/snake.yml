@@ -1,0 +1,28 @@
+name: GitHub Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: yashbajaj02
+          outputs: |
+            assets/github-snake.svg
+            assets/github-snake-dark.svg?palette=github-dark
+
+      - name: Commit Snake
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "chore: update github snake"
+          add: "assets/github-snake.svg assets/github-snake-dark.svg"
