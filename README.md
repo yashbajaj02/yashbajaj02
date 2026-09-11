@@ -52,22 +52,6 @@ I like turning ideas into real projects and learning by building.
 
 ---
 
-## ~/ github stats
-
-<div align="center">
-
-<a href="https://github.com/yashbajaj02">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yashbajaj02&show_icons=true&theme=dark&hide_border=true&rank_icon=github" alt="Yash's GitHub Stats">
-</a>
-
-<a href="https://github.com/yashbajaj02">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashbajaj02&layout=compact&langs_count=8&theme=dark&hide_border=true" alt="Top Languages">
-</a>
-
-</div>
-
----
-
 ## ~/ selected work
 
 | Project | Description |
