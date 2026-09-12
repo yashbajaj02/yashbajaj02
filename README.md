@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yashbajaj02/yashbajaj02/main/assets/portrait.svg" width="300" alt="Yash Bajaj">
+<img src="https://raw.githubusercontent.com/yashbajaj02/yashbajaj02/main/assets/hero-portrait-smooth.png" width="300" alt="Yash Bajaj">
 
 <br>
 
