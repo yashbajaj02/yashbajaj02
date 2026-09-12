@@ -82,43 +82,11 @@ I like turning ideas into real projects and learning by building.
 
 ## ~/ selected work
 
-<table>
-<tr>
-<td width="33%" valign="top">
+<div align="center">
 
-### Connect
+<img src="./assets/project-cards.svg" width="900" alt="Selected Projects"/>
 
-Developer portfolio and developer hub.
-
-`React` `TypeScript` `Tailwind` `Supabase`
-
-[View Project →](https://github.com/yashbajaj02/connect-yash)
-
-</td>
-<td width="33%" valign="top">
-
-### Splity
-
-Expense splitting and settlement application.
-
-`React` `TypeScript` `Supabase` `PostgreSQL`
-
-[View Project →](https://github.com/yashbajaj02/Splity)
-
-</td>
-<td width="33%" valign="top">
-
-### VoxGuard
-
-AI-powered voice fraud detection system.
-
-`Python` `AI/ML` `Voice Analysis`
-
-[Coming soon →]
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -132,12 +100,3 @@ AI-powered voice fraud detection system.
 
 </div>
 
----
-
-## ~/ selected work
-
-<div align="center">
-
-<img src="./assets/project-cards.svg" width="900" alt="Selected Projects"/>
-
-</div>
