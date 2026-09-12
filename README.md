@@ -56,7 +56,7 @@ I like turning ideas into real projects and learning by building.
 
 <div align="center">
 
-<img src="./assets/radar.svg" alt="Tech Stack Radar" width="720">
+<img src="./assets/radar.svg" alt="Tech Stack Radar" width="560">
 
 </div>
 
@@ -66,15 +66,15 @@ I like turning ideas into real projects and learning by building.
 
 <div align="center">
 
-<img src="./assets/metrics.isocalendar.svg" alt="GitHub Contribution Calendar" width="750">
+<img src="./assets/metrics.isocalendar.svg" alt="GitHub Contribution Calendar" width="560">
 
 <div style="height:20px;"></div>
 
-<img src="./assets/languages-custom.svg" alt="Most Used Languages" width="720">
+<img src="./assets/languages-custom.svg" alt="Most Used Languages" width="560">
 
 <div style="height:20px;"></div>
 
-<img src="./assets/github-snake-dark.svg" alt="GitHub Contribution Snake" width="900">
+<img src="./assets/github-snake-dark.svg" alt="GitHub Contribution Snake" width="560">
 
 </div>
 
@@ -84,7 +84,7 @@ I like turning ideas into real projects and learning by building.
 
 <div align="center">
 
-<img src="./assets/project-cards.svg" width="900" alt="Selected Projects"/>
+<img src="./assets/project-cards.svg" width="560" alt="Selected Projects"/>
 
 </div>
 
