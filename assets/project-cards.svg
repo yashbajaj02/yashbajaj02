@@ -24,7 +24,7 @@ Connect
 fill="#8b949e"
 font-family="Arial"
 font-size="13">
-Connect with Yash Bajaj — A modern portfolio showcasing AI innovation, w
+Premium responsive developer portfolio and personal developer hub
 </text>
 
 <text x="42" y="125"
@@ -71,7 +71,7 @@ Splity
 fill="#8b949e"
 font-family="Arial"
 font-size="13">
-Splity is a modern expense-sharing platform that helps friends, roommate
+Modern expense-sharing and settlement platform for groups, trips, and sh
 </text>
 
 <text x="472" y="125"
@@ -111,37 +111,39 @@ fill="#f0f6fc"
 font-family="Arial"
 font-size="20"
 font-weight="700">
-VoxGuard
+Filewise
 </text>
 
 <text x="42" y="300"
 fill="#8b949e"
 font-family="Arial"
 font-size="13">
-AI-powered voice fraud detection system
+All-in-one file utility platform for PDF, image, and document processing
 </text>
 
 <text x="42" y="335"
 fill="#39d353"
 font-family="Arial"
 font-size="12">
-Python • AI/ML • Voice Analysis
+Project
 </text>
 
 <text x="42" y="368"
 fill="#8b949e"
 font-family="Arial"
 font-size="12">
-Coming soon
+★ 0    Forks 0
 </text>
 
+<a href="https://github.com/yashbajaj02/Filewise">
 <text x="42" y="398"
-fill="#8b949e"
+fill="#58a6ff"
 font-family="Arial"
 font-size="12"
 font-weight="600">
-Coming soon →
+View repository →
 </text>
+</a>
 </g>
 <g>
 
@@ -156,21 +158,21 @@ fill="#f0f6fc"
 font-family="Arial"
 font-size="20"
 font-weight="700">
-PhishGaurd
+Pricewise
 </text>
 
 <text x="472" y="300"
 fill="#8b949e"
 font-family="Arial"
 font-size="13">
-Phishing detection and security project
+Web-based product price comparison application for discovering better pr
 </text>
 
 <text x="472" y="335"
 fill="#39d353"
 font-family="Arial"
 font-size="12">
-Python • JavaScript • CSS
+Project
 </text>
 
 <text x="472" y="368"
@@ -180,7 +182,7 @@ font-size="12">
 ★ 0    Forks 0
 </text>
 
-<a href="https://github.com/yashbajaj02/PhishGaurd">
+<a href="https://github.com/yashbajaj02/pricewise">
 <text x="472" y="398"
 fill="#58a6ff"
 font-family="Arial"
@@ -203,21 +205,21 @@ fill="#f0f6fc"
 font-family="Arial"
 font-size="20"
 font-weight="700">
-AI Stress Analysis
+Rock Paper Scissor
 </text>
 
 <text x="42" y="510"
 fill="#8b949e"
 font-family="Arial"
 font-size="13">
-AI-driven lifestyle stress analysis system using statistics, visualizati
+Interactive Rock Paper Scissors browser game built with HTML, CSS, and J
 </text>
 
 <text x="42" y="545"
 fill="#39d353"
 font-family="Arial"
 font-size="12">
-Jupyter Notebook
+JavaScript • CSS • HTML
 </text>
 
 <text x="42" y="578"
@@ -227,7 +229,7 @@ font-size="12">
 ★ 0    Forks 0
 </text>
 
-<a href="https://github.com/yashbajaj02/AI-Stress-Analysis-System">
+<a href="https://github.com/yashbajaj02/Rock-Paper-Scissor">
 <text x="42" y="608"
 fill="#58a6ff"
 font-family="Arial"
@@ -250,21 +252,21 @@ fill="#f0f6fc"
 font-family="Arial"
 font-size="20"
 font-weight="700">
-Modern Book Search
+Best Friend Challenge 
 </text>
 
 <text x="472" y="510"
 fill="#8b949e"
 font-family="Arial"
 font-size="13">
-Modern web-based book search application
+Fun interactive friendship challenge webpage with animations and playful
 </text>
 
 <text x="472" y="545"
 fill="#39d353"
 font-family="Arial"
 font-size="12">
-JavaScript • CSS • HTML
+CSS • HTML
 </text>
 
 <text x="472" y="578"
@@ -274,7 +276,7 @@ font-size="12">
 ★ 0    Forks 0
 </text>
 
-<a href="https://github.com/yashbajaj02/Modern-Book-Search">
+<a href="https://github.com/yashbajaj02/Best-Friend-Challenge-">
 <text x="472" y="608"
 fill="#58a6ff"
 font-family="Arial"

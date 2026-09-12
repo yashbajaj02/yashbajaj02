@@ -10,38 +10,77 @@ TOKEN = os.getenv("METRICS_TOKEN") or os.getenv("GITHUB_TOKEN")
 if not TOKEN:
     raise RuntimeError("METRICS_TOKEN or GITHUB_TOKEN is required")
 
-PROJECTS = [
+PINNED_PROJECTS = [
     {
         "repo": "connect-yash",
         "title": "Connect",
         "fallback_description": "Modern developer portfolio and developer hub",
+        "status": "In development",
     },
     {
         "repo": "Splity",
         "title": "Splity",
         "fallback_description": "Expense splitting and settlement platform",
+        "status": "In development",
     },
     {
-        "repo": None,
-        "title": "VoxGuard",
-        "fallback_description": "AI-powered voice fraud detection system",
+        "repo": "Filewise",
+        "title": "Filewise",
+        "fallback_description": "All-in-one file utility platform",
+        "status": "In development",
     },
     {
-        "repo": "PhishGaurd",
-        "title": "PhishGaurd",
-        "fallback_description": "Phishing detection and security project",
-    },
-    {
-        "repo": "AI-Stress-Analysis-System",
-        "title": "AI Stress Analysis",
-        "fallback_description": "AI-driven lifestyle stress analysis system",
-    },
-    {
-        "repo": "Modern-Book-Search",
-        "title": "Modern Book Search",
-        "fallback_description": "Modern web-based book search application",
+        "repo": "pricewise",
+        "title": "Pricewise",
+        "fallback_description": "Web-based product price comparison application",
+        "status": "In development",
     },
 ]
+
+EXCLUDED_LIVE_REPOS = {
+    "yashbajaj02",
+    "connect-yash",
+    "Splity",
+    "Filewise",
+    "pricewise",
+}
+
+def select_projects(repos):
+    pinned = []
+
+    for project in PINNED_PROJECTS:
+        repo = repo_map.get(project["repo"])
+        item = dict(project)
+
+        if repo:
+            item["live_repo"] = repo
+
+        pinned.append(item)
+
+    live = []
+    for repo in repos:
+        name = repo["name"]
+
+        if name in EXCLUDED_LIVE_REPOS:
+            continue
+
+        if repo.get("isFork"):
+            continue
+
+        live.append({
+            "repo": name,
+            "title": name.replace("-", " "),
+            "fallback_description": "GitHub project",
+            "status": "Live project",
+            "live_repo": repo,
+        })
+
+        if len(live) == 2:
+            break
+
+    return pinned + live
+
+
 
 QUERY = """
 query($login: String!) {
@@ -58,6 +97,7 @@ query($login: String!) {
         isPrivate
         stargazerCount
         forkCount
+        isFork
         languages(first: 3, orderBy: {field: SIZE, direction: DESC}) {
           nodes {
             name
@@ -92,6 +132,8 @@ if "errors" in data:
 
 repos = data["data"]["user"]["repositories"]["nodes"]
 repo_map = {repo["name"]: repo for repo in repos}
+
+PROJECTS = select_projects(repos)
 
 width = 900
 card_width = 410
