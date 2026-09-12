@@ -52,6 +52,16 @@ I like turning ideas into real projects and learning by building.
 
 ---
 
+## ~/ tech stack
+
+<div align="center">
+
+<img src="./assets/radar.svg" alt="Tech Stack Radar" width="720">
+
+</div>
+
+---
+
 ## ~/ github activity
 
 <div align="center">
