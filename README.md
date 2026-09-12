@@ -4,14 +4,12 @@
 
 <br>
 
-<!-- NAME / TAGLINE -->
 <a href="https://github.com/yashbajaj02">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Yash+Bajaj;Full-Stack+Developer;Exploring+AI+%2F+ML;Building+real-world+products" alt="typing banner">
 </a>
 
 <br>
 
-<!-- SOCIALS -->
 <a href="https://linkedin.com/in/yashbajaj02"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:bajajyash06@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://connectyash.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
@@ -39,11 +37,47 @@ Hi, I'm **Yash Bajaj**. I enjoy turning ideas into real products and learning by
 
 ---
 
-<div align="center">
-
 ## `~/` toolbox
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js,ts,nodejs,express,postgres,supabase,git,github,vscode,linux,postman&perline=8" alt="tech stack">
+<table>
+<tr>
+<td width="170"><b>Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js,ts" height="40" alt="Frontend"></td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express" height="40" alt="Backend"></td>
+</tr>
+<tr>
+<td><b>Database</b></td>
+<td><img src="https://skillicons.dev/icons?i=postgres,supabase" height="40" alt="Database"></td>
+</tr>
+<tr>
+<td><b>Tools &amp; Platforms</b></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" height="40" alt="Tools and platforms"></td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `~/` skill radar
+
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="./assets/radar.svg" width="400" alt="GitHub Tech Radar">
+
+</td>
+<td width="50%" align="center" valign="middle">
+
+<img src="./assets/languages-custom.svg" width="400" alt="GitHub repository languages">
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -54,10 +88,6 @@ Hi, I'm **Yash Bajaj**. I enjoy turning ideas into real products and learning by
 ## `~/` github activity
 
 <img src="https://streak-stats.demolab.com/?user=yashbajaj02&theme=dark&background=0D1117&border=30363D&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=8B5CF6&currStreakLabel=FFFFFF&sideLabels=8B949E&dates=8B949E&card_width=560&card_height=195" alt="GitHub contribution streak" width="560">
-
-<br><br>
-
-<img src="./assets/languages-custom.svg" alt="Most Used Languages" width="560">
 
 <br><br>
 
@@ -122,6 +152,6 @@ Hi, I'm **Yash Bajaj**. I enjoy turning ideas into real products and learning by
 
 <div align="center">
 
-<sub>`01110100 01101000 01100001 01101110 01101011 01110011 00100000 01100110 01101111 01110010 00100000 01110011 01100011 01110010 01101111 01101100 01101100 01101001 01101110 01100111`</sub>
+### Thanks for scrolling!
 
 </div>
