@@ -54,21 +54,15 @@ I like turning ideas into real projects and learning by building.
 
 ## ~/ tech stack
 
-**Frontend**
+**Frontend** — React · Tailwind · HTML · CSS · JavaScript · TypeScript
 
-React <img src="https://skillicons.dev/icons?i=react" height="20"> &nbsp; Next.js <img src="https://skillicons.dev/icons?i=nextjs" height="20"> &nbsp; Tailwind <img src="https://skillicons.dev/icons?i=tailwind" height="20"> &nbsp; HTML <img src="https://skillicons.dev/icons?i=html" height="20"> &nbsp; CSS <img src="https://skillicons.dev/icons?i=css" height="20"> &nbsp; JavaScript <img src="https://skillicons.dev/icons?i=js" height="20">
+**Backend** — Node.js · Express
 
-**Backend**
+**Database** — PostgreSQL · Supabase
 
-Node.js <img src="https://skillicons.dev/icons?i=nodejs" height="20"> &nbsp; Express <img src="https://skillicons.dev/icons?i=express" height="20">
+**Cloud & Services** — Cloudinary
 
-**Database**
-
-PostgreSQL <img src="https://skillicons.dev/icons?i=postgres" height="20"> &nbsp; MongoDB <img src="https://skillicons.dev/icons?i=mongodb" height="20">
-
-**Tools & Platforms**
-
-Git <img src="https://skillicons.dev/icons?i=git" height="20"> &nbsp; GitHub <img src="https://skillicons.dev/icons?i=github" height="20"> &nbsp; VS Code <img src="https://skillicons.dev/icons?i=vscode" height="20"> &nbsp; Linux <img src="https://skillicons.dev/icons?i=linux" height="20"> &nbsp; Postman <img src="https://skillicons.dev/icons?i=postman" height="20">
+**Tools & Platforms** — Git · GitHub · VS Code · Linux · Postman
 
 ---
 
