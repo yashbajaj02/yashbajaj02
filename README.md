@@ -34,7 +34,21 @@ Hi, I'm **Yash Bajaj**. I enjoy turning ideas into real products and learning by
 
 ## `~/` tech stack
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js,ts,nodejs,express,postgres,supabase,git,github,vscode,linux,postman&perline=8" alt="Tech stack">
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js,ts" height="40" alt="Frontend">
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" height="40" alt="Backend">
+
+**Database**
+
+<img src="https://skillicons.dev/icons?i=postgres,supabase" height="40" alt="Database">
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" height="40" alt="Tools and platforms">
 
 </div>
 
@@ -42,31 +56,21 @@ Hi, I'm **Yash Bajaj**. I enjoy turning ideas into real products and learning by
 
 <div align="center">
 
-## `~/` contribution calendar
+## `~/` github activity
 
-<img src="./assets/metrics.isocalendar.svg" width="95%" alt="GitHub contribution calendar">
+<img src="https://streak-stats.demolab.com/?user=yashbajaj02&theme=dark&background=0D1117&border=30363D&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=8B5CF6&currStreakLabel=FFFFFF&sideLabels=8B5CF6&dates=8B949E&card_width=560&card_height=195" alt="GitHub contribution streak" width="560">
+
+<br><br>
+
+<img src="./assets/languages-custom.svg" alt="Most Used Languages" width="560">
 
 <br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg">
-  <img src="./assets/github-snake-dark.svg" width="95%" alt="GitHub contribution snake">
+  <img src="./assets/github-snake-dark.svg" width="560" alt="GitHub contribution snake">
 </picture>
-
-</div>
-
----
-
-<div align="center">
-
-## `~/` the numbers
-
-<img src="./assets/metrics.languages.svg" width="560" alt="GitHub language statistics">
-
-<br><br>
-
-<img src="./assets/metrics.achievements.svg" width="95%" alt="GitHub achievements">
 
 </div>
 
