@@ -166,7 +166,7 @@ for i, project in enumerate(PROJECTS):
 
     if repo:
         description = repo["description"] or project["fallback_description"]
-        description = html.escape(description[:72])
+        description = description.strip()[:45].rsplit(" ", 1)[0] + "..." if len(description.strip()) > 45 else description.strip(); description = html.escape(description)
 
         languages = [
             lang["name"]
