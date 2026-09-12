@@ -66,7 +66,7 @@ I like turning ideas into real projects and learning by building.
 
 <div align="center">
 
-<img src="./assets/metrics.isocalendar.svg" alt="GitHub Contribution Calendar" width="560">
+<img src="./assets/metrics.calendar.svg" alt="GitHub Contribution Calendar" width="560">
 
 <div style="height:20px;"></div>
 
@@ -99,4 +99,3 @@ I like turning ideas into real projects and learning by building.
 ### Thanks for visiting!
 
 </div>
-
