@@ -91,12 +91,15 @@ I like turning ideas into real projects and learning by building.
 
 ---
 
-## ~/ certifications
+## ~/ leetcode
 
-- HTML & CSS — Parul University / Ethnotech Academy
-- JavaScript — Certiport / Credly
-- Python — IBM
-- Statistics 101 — IBM
+<div align="center">
+
+<a href="https://leetcode.com/u/yashbajaj02/">
+  <img src="https://leetcard.jacoblin.cool/yashbajaj02?theme=dark&width=560&height=200" alt="LeetCode Stats" width="560">
+</a>
+
+</div>
 
 ---
 
