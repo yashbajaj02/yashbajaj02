@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="270" height="150" viewBox="0 0 270 150"><defs><filter id="s"><feDropShadow dx="0" dy="6" stdDeviation="6" flood-opacity=".35"/></filter></defs><rect x="4" y="7" width="262" height="138" rx="13" fill="#05070a" opacity=".8"/><rect x="2" y="2" width="262" height="138" rx="13" fill="#161b22" stroke="#30363d"/><rect x="2" y="2" width="262" height="4" rx="2" fill="#8b5cf6" opacity=".75"/><g filter="url(#s)"><text x="18" y="34" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="17" font-weight="700">Connect</text><text x="18" y="59" fill="#8b949e" font-family="Arial,sans-serif" font-size="10">Premium responsive developer portfolio...</text><text x="18" y="86" fill="#39d353" font-family="Arial,sans-serif" font-size="9">TypeScript • React • Vite</text><text x="18" y="110" fill="#8b949e" font-family="Arial,sans-serif" font-size="9">★ 0    Forks 0</text><text x="18" y="130" fill="#58a6ff" font-family="Arial,sans-serif" font-size="10" font-weight="600">Open repository →</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="270" height="150" viewBox="0 0 270 150" role="img" aria-label="Connect project card">
+<defs><filter id="s"><feDropShadow dx="0" dy="6" stdDeviation="6" flood-opacity=".35"/></filter></defs>
+<rect x="4" y="7" width="262" height="138" rx="13" fill="#05070a" opacity=".8"/>
+<rect x="2" y="2" width="262" height="138" rx="13" fill="#161b22" stroke="#30363d"/>
+<rect x="2" y="2" width="262" height="4" rx="2" fill="#8b5cf6" opacity=".75"/>
+<g filter="url(#s)">
+<text x="18" y="32" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="17" font-weight="700">Connect</text>
+<text x="18" y="57" fill="#8b949e" font-family="Arial,sans-serif" font-size="10">Premium responsive developer portfolio and...</text>
+<text x="18" y="84" fill="#39d353" font-family="Arial,sans-serif" font-size="9">TypeScript • JavaScript • CSS</text>
+<text x="18" y="108" fill="#8b949e" font-family="Arial,sans-serif" font-size="9">★ 0    Forks 0</text>
+<text x="18" y="128" fill="#58a6ff" font-family="Arial,sans-serif" font-size="10" font-weight="600">Open repository →</text>
+</g></svg>

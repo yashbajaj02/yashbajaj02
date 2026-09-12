@@ -66,18 +66,9 @@ I like turning ideas into real projects and learning by building.
 
 <!-- PROJECTS:START -->
 <table>
-<tr>
-<td align="center"><a href="https://github.com/yashbajaj02/connect-yash"><img src="./assets/project-1.svg" width="270" alt="Connect"></a></td>
-<td align="center"><a href="https://github.com/yashbajaj02/Splity"><img src="./assets/project-2.svg" width="270" alt="Splity"></a></td>
-</tr>
-<tr>
-<td align="center"><a href="https://github.com/yashbajaj02/Filewise"><img src="./assets/project-3.svg" width="270" alt="Filewise"></a></td>
-<td align="center"><a href="https://github.com/yashbajaj02/pricewise"><img src="./assets/project-4.svg" width="270" alt="Pricewise"></a></td>
-</tr>
-<tr>
-<td align="center"><a href="https://github.com/yashbajaj02/Rock-Paper-Scissor"><img src="./assets/project-5.svg" width="270" alt="Rock Paper Scissor"></a></td>
-<td align="center"><a href="https://github.com/yashbajaj02/Best-Friend-Challenge-"><img src="./assets/project-6.svg" width="270" alt="Best Friend Challenge"></a></td>
-</tr>
+<tr><td align="center"><a href="https://github.com/yashbajaj02/connect-yash"><img src="./assets/project-1.svg" width="270" alt="Connect"></a></td><td align="center"><a href="https://github.com/yashbajaj02/Splity"><img src="./assets/project-2.svg" width="270" alt="Splity"></a></td></tr>
+<tr><td align="center"><a href="https://github.com/yashbajaj02/Filewise"><img src="./assets/project-3.svg" width="270" alt="Filewise"></a></td><td align="center"><a href="https://github.com/yashbajaj02/pricewise"><img src="./assets/project-4.svg" width="270" alt="Pricewise"></a></td></tr>
+<tr><td align="center"><a href="https://github.com/yashbajaj02/Rock-Paper-Scissor"><img src="./assets/project-5.svg" width="270" alt="Rock Paper Scissor"></a></td><td align="center"><a href="https://github.com/yashbajaj02/Best-Friend-Challenge-"><img src="./assets/project-6.svg" width="270" alt="Best Friend Challenge "></a></td></tr>
 </table>
 <!-- PROJECTS:END -->
 
