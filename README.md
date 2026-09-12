@@ -85,11 +85,22 @@ I like turning ideas into real projects and learning by building.
 
 ---
 
-<div align="center">
-
 ## ~/ currently learning
 
-`AI/ML` `React` `TypeScript` `Full-Stack Development`
+`AI/ML` · `React` · `TypeScript` · `Full-Stack Development`
+
+---
+
+## ~/ certifications
+
+- HTML & CSS — Parul University / Ethnotech Academy
+- JavaScript — Certiport / Credly
+- Python — IBM
+- Statistics 101 — IBM
+
+---
+
+<div align="center">
 
 ### Thanks for visiting!
 
