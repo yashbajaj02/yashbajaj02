@@ -1,16 +1,13 @@
 <div align="center">
 
-<a href="https://github.com/yashbajaj02">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=650&lines=Yash+Bajaj;CSE+(AI)+Student;Full-Stack+Developer;AI%2FML+Enthusiast;Building+things+that+matter" alt="Typing banner">
-</a>
+<h1><font color="#39D353">Yash Bajaj</font></h1>
+
+<a href="https://leetcode.com/u/yashbajaj02/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+<a href="https://www.linkedin.com/in/yashbajaj02/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://connectyash.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 
 <br><br>
 
-<a href="https://leetcode.com/u/yashbajaj02/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
-<a href="https://www.linkedin.com/in/yashbajaj02/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://connectyash.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-
-<br><br>
 <img src="https://komarev.com/ghpvc/?username=yashbajaj02&style=flat&color=39d353&label=profile+views" alt="Profile views">
 
 </div>
