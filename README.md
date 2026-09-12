@@ -42,16 +42,6 @@ I like turning ideas into real projects and learning by building.
 - Exploring **AI/ML**
 - Improving my full-stack development skills
 
----
-
-## ~/ toolbox
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,html,css,tailwind,postgres,supabase,git,github,vscode&perline=7" alt="Tech stack">
-</div>
-
----
-
 ## ~/ tech stack
 
 **Frontend** — React · Tailwind · HTML · CSS · JavaScript · TypeScript
