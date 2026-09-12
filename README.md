@@ -6,20 +6,11 @@
 
 <br><br>
 
-<a href="https://github.com/yashbajaj02">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-<a href="https://www.linkedin.com/in/yashbajaj02/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="https://yashbajaj02.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-</a>
+<a href="https://github.com/yashbajaj02"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/yashbajaj02/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://yashbajaj02.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 
 <br><br>
-
 <img src="https://komarev.com/ghpvc/?username=yashbajaj02&style=flat&color=39d353&label=profile+views" alt="Profile views">
 
 </div>
@@ -32,10 +23,9 @@ Hi, I am **Yash Bajaj**, a CSE (AI) student who enjoys building full-stack appli
 
 I like turning ideas into real projects and learning by building.
 
-- Building **Connect**
-- Building **Splity**
-- Exploring **AI/ML**
-- Improving my full-stack development skills
+<div align="center">
+<img src="./assets/whoami-3d.svg" width="560" alt="Developer profile cards">
+</div>
 
 ## ~/ tech stack
 
@@ -64,11 +54,8 @@ I like turning ideas into real projects and learning by building.
 <img src="https://streak-stats.demolab.com/?user=yashbajaj02&theme=dark&background=0D1117&border=30363D&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=8B5CF6&currStreakLabel=FFFFFF&sideLabels=8B5CF6&dates=8B949E&card_width=560&card_height=195" alt="GitHub contribution streak" width="560">
 
 <div style="height:20px;"></div>
-
 <img src="./assets/languages-custom.svg" alt="Most Used Languages" width="560">
-
 <div style="height:20px;"></div>
-
 <img src="./assets/github-snake-dark.svg" alt="GitHub Contribution Snake" width="560">
 
 </div>
@@ -78,9 +65,7 @@ I like turning ideas into real projects and learning by building.
 ## ~/ selected work
 
 <div align="center">
-
 <img src="./assets/project-cards.svg" width="560" alt="Selected Projects"/>
-
 </div>
 
 ---
@@ -88,9 +73,7 @@ I like turning ideas into real projects and learning by building.
 ## ~/ currently learning
 
 <div align="center">
-
 <img src="./assets/learning-3d.svg" width="560" alt="Currently learning: AI/ML, React, TypeScript, Full-Stack Development"/>
-
 </div>
 
 ---
@@ -98,16 +81,16 @@ I like turning ideas into real projects and learning by building.
 ## ~/ leetcode
 
 <div align="center">
-
 <a href="https://leetcode.com/u/yashbajaj02/">
-  <img src="https://leetcard.jacoblin.cool/yashbajaj02?theme=dark&width=560&height=200" alt="LeetCode Stats" width="560">
+  <img src="https://leetcard.jacoblin.cool/yashbajaj02?theme=dark&width=560&height=200" alt="Live LeetCode Stats" width="560">
 </a>
-
 </div>
 
 ---
 
 <div align="center">
+
+`$ echo "thanks for visiting"`
 
 ### Thanks for visiting!
 
