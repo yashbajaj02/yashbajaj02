@@ -87,7 +87,11 @@ I like turning ideas into real projects and learning by building.
 
 ## ~/ currently learning
 
-`AI/ML` · `React` · `TypeScript` · `Full-Stack Development`
+<div align="center">
+
+<img src="./assets/learning-3d.svg" width="560" alt="Currently learning: AI/ML, React, TypeScript, Full-Stack Development"/>
+
+</div>
 
 ---
 
