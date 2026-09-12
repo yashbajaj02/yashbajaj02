@@ -44,15 +44,25 @@ I like turning ideas into real projects and learning by building.
 
 ## ~/ tech stack
 
-**Frontend** — React · Tailwind · HTML · CSS · JavaScript · TypeScript
+**Frontend**
 
-**Backend** — Node.js · Express
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js,ts" height="40">
 
-**Database** — PostgreSQL · Supabase
+**Backend**
 
-**Cloud & Services** — Cloudinary
+<img src="https://skillicons.dev/icons?i=nodejs,express" height="40">
 
-**Tools & Platforms** — Git · GitHub · VS Code · Linux · Postman
+**Database**
+
+<img src="https://skillicons.dev/icons?i=postgres,supabase" height="40">
+
+**Cloud & Services**
+
+<img src="https://skillicons.dev/icons?i=cloudinary" height="40">
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" height="40">
 
 ---
 
