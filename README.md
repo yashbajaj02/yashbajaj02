@@ -56,10 +56,6 @@ I like turning ideas into real projects and learning by building.
 
 <img src="https://skillicons.dev/icons?i=postgres,supabase" height="40">
 
-**Cloud & Services**
-
-<img src="https://skillicons.dev/icons?i=cloudinary" height="40">
-
 **Tools & Platforms**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" height="40">
