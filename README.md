@@ -131,3 +131,13 @@ AI-powered voice fraud detection system.
 ### Thanks for visiting!
 
 </div>
+
+---
+
+## ~/ selected work
+
+<div align="center">
+
+<img src="./assets/project-cards.svg" width="900" alt="Selected Projects"/>
+
+</div>
