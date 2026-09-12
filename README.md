@@ -1,18 +1,25 @@
-<div align="center">
-
-<img src="https://github.com/yashbajaj02.png?size=300" width="220" alt="Yash Bajaj">
+<table>
+<tr>
+<td width="46%" align="center" valign="middle">
+<img src="./assets/hero-portrait.jpg" width="300" alt="Yash Bajaj">
+</td>
+<td width="54%" align="center" valign="middle">
 
 <h1><font color="#39D353">Yash Bajaj</font></h1>
 
 <a href="https://leetcode.com/u/yashbajaj02/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+<br>
 <a href="https://www.linkedin.com/in/yashbajaj02/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<br>
 <a href="https://connectyash.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=yashbajaj02&style=flat&color=39d353&label=profile+views" alt="Profile views">
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
