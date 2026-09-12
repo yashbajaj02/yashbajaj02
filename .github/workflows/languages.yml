@@ -1,0 +1,33 @@
+name: GitHub Languages
+
+on:
+  schedule:
+    - cron: "43 2 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - "scripts/languages.py"
+      - ".github/workflows/languages.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  languages:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Generate language card
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/languages.py
+
+      - name: Commit language card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/languages-custom.svg
+          git diff --cached --quiet || git commit -m "chore: update language card"
+          git push
