@@ -22,11 +22,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=yashbajaj02&style=flat&color=39d353&label=profile+views" alt="Profile views">
 
-
-
-
-
-
 </div>
 
 ---
@@ -66,7 +61,7 @@ I like turning ideas into real projects and learning by building.
 
 <div align="center">
 
-<img src="./assets/metrics.calendar.svg" alt="GitHub Contribution Calendar" width="560">
+<img src="https://streak-stats.demolab.com/?user=yashbajaj02&theme=dark&background=0D1117&border=30363D&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=8B5CF6&currStreakLabel=FFFFFF&sideLabels=8B5CF6&dates=8B949E&card_width=560&card_height=195" alt="GitHub contribution streak" width="560">
 
 <div style="height:20px;"></div>
 
