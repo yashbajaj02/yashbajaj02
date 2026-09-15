@@ -5,33 +5,33 @@
 
 <circle cx="38" cy="100" r="6" fill="#3178c6"/>
 <text x="54" y="105" fill="#f0f6fc" font-family="Arial" font-size="14">TypeScript</text>
-<text x="650" y="105" text-anchor="end" fill="#8b949e" font-family="Arial" font-size="13">47.9%</text>
+<text x="650" y="105" text-anchor="end" fill="#8b949e" font-family="Arial" font-size="13">48.2%</text>
 <rect x="54" y="115" width="580" height="7" rx="3.5" fill="#21262d"/>
-<rect x="54" y="115" width="277.6" height="7" rx="3.5" fill="#3178c6"/>
+<rect x="54" y="115" width="279.4" height="7" rx="3.5" fill="#3178c6"/>
 
 <circle cx="38" cy="134" r="6" fill="#3572A5"/>
 <text x="54" y="139" fill="#f0f6fc" font-family="Arial" font-size="14">Python</text>
-<text x="650" y="139" text-anchor="end" fill="#8b949e" font-family="Arial" font-size="13">16.4%</text>
+<text x="650" y="139" text-anchor="end" fill="#8b949e" font-family="Arial" font-size="13">16.3%</text>
 <rect x="54" y="149" width="580" height="7" rx="3.5" fill="#21262d"/>
-<rect x="54" y="149" width="95.3" height="7" rx="3.5" fill="#3572A5"/>
+<rect x="54" y="149" width="94.7" height="7" rx="3.5" fill="#3572A5"/>
 
 <circle cx="38" cy="168" r="6" fill="#DA5B0B"/>
 <text x="54" y="173" fill="#f0f6fc" font-family="Arial" font-size="14">Jupyter Notebook</text>
 <text x="650" y="173" text-anchor="end" fill="#8b949e" font-family="Arial" font-size="13">13.4%</text>
 <rect x="54" y="183" width="580" height="7" rx="3.5" fill="#21262d"/>
-<rect x="54" y="183" width="78.0" height="7" rx="3.5" fill="#DA5B0B"/>
+<rect x="54" y="183" width="77.5" height="7" rx="3.5" fill="#DA5B0B"/>
 
 <circle cx="38" cy="202" r="6" fill="#f1e05a"/>
 <text x="54" y="207" fill="#f0f6fc" font-family="Arial" font-size="14">JavaScript</text>
-<text x="650" y="207" text-anchor="end" fill="#8b949e" font-family="Arial" font-size="13">13.1%</text>
+<text x="650" y="207" text-anchor="end" fill="#8b949e" font-family="Arial" font-size="13">13.0%</text>
 <rect x="54" y="217" width="580" height="7" rx="3.5" fill="#21262d"/>
-<rect x="54" y="217" width="75.9" height="7" rx="3.5" fill="#f1e05a"/>
+<rect x="54" y="217" width="75.4" height="7" rx="3.5" fill="#f1e05a"/>
 
 <circle cx="38" cy="236" r="6" fill="#663399"/>
 <text x="54" y="241" fill="#f0f6fc" font-family="Arial" font-size="14">CSS</text>
-<text x="650" y="241" text-anchor="end" fill="#8b949e" font-family="Arial" font-size="13">5.6%</text>
+<text x="650" y="241" text-anchor="end" fill="#8b949e" font-family="Arial" font-size="13">5.5%</text>
 <rect x="54" y="251" width="580" height="7" rx="3.5" fill="#21262d"/>
-<rect x="54" y="251" width="32.3" height="7" rx="3.5" fill="#663399"/>
+<rect x="54" y="251" width="32.1" height="7" rx="3.5" fill="#663399"/>
 
 <circle cx="38" cy="270" r="6" fill="#336790"/>
 <text x="54" y="275" fill="#f0f6fc" font-family="Arial" font-size="14">PLpgSQL</text>
@@ -43,5 +43,5 @@
 <text x="54" y="309" fill="#f0f6fc" font-family="Arial" font-size="14">HTML</text>
 <text x="650" y="309" text-anchor="end" fill="#8b949e" font-family="Arial" font-size="13">1.4%</text>
 <rect x="54" y="319" width="580" height="7" rx="3.5" fill="#21262d"/>
-<rect x="54" y="319" width="8.2" height="7" rx="3.5" fill="#e34c26"/>
+<rect x="54" y="319" width="8.1" height="7" rx="3.5" fill="#e34c26"/>
 </svg>
