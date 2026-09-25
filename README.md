@@ -25,10 +25,6 @@
 
 ## `~/` whoami
 
-```console
-$ cat about.txt
-```
-
 Hi, I'm **Yash Bajaj** — a CSE (AI) student who likes turning ideas into working products.
 
 - Building full-stack web applications and practical AI/ML projects
