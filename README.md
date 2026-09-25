@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero-portrait-smooth.webp" width="270" alt="Yash Bajaj">
+<img src="./assets/yash-hero.webp" width="270" alt="Yash Bajaj">
 
 <br>
 
