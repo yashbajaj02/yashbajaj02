@@ -94,7 +94,7 @@ Hi, I'm **Yash Bajaj** — a CSE (AI) student who likes turning ideas into worki
 <table>
 <tr><td align="center"><a href="https://github.com/yashbajaj02/connect-yash"><img src="./assets/project-1.svg" width="270" alt="Connect"></a></td><td align="center"><a href="https://github.com/yashbajaj02/Splity"><img src="./assets/project-2.svg" width="270" alt="Splity"></a></td></tr>
 <tr><td align="center"><a href="https://github.com/yashbajaj02/Filewise"><img src="./assets/project-3.svg" width="270" alt="Filewise"></a></td><td align="center"><a href="https://github.com/yashbajaj02/pricewise"><img src="./assets/project-4.svg" width="270" alt="Pricewise"></a></td></tr>
-<tr><td align="center"><a href="https://github.com/yashbajaj02/ipo-checking"><img src="./assets/project-5.svg" width="270" alt="IPO Checking"></a></td><td align="center"><a href="https://github.com/yashbajaj02/DAA-Assignment"><img src="./assets/project-6.svg" width="270" alt="DAA Assignment"></a></td></tr>
+<tr><td align="center"><a href="https://github.com/yashbajaj02/Amazon-ML-Hakethon_GG"><img src="./assets/project-5.svg" width="270" alt="Amazon ML Hakethon_GG"></a></td><td align="center"><a href="https://github.com/yashbajaj02/ipo-checking"><img src="./assets/project-6.svg" width="270" alt="ipo checking"></a></td></tr>
 </table>
 <!-- PROJECTS:END -->
 
